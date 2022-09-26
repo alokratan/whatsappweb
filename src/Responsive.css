@@ -1,0 +1,20 @@
+@media only screen and (min-width:150px) and (max-width:600px) {
+    .background {
+display:none; 
+      }
+      .background2 {
+
+        width: 97vw;
+        height: 95vh;g
+        background-color: var(--fadewhite);
+        box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.247);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .background2 h4{
+        color: var(--blacks);
+      }
+
+
+}

@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+./dbs2.js
+./dbs.js
 
 # testing
 /coverage

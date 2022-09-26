@@ -1,0 +1,24 @@
+.backgrounddark{
+    background-color: #333333;
+    box-shadow: 0 0 20px 0px rgba(253, 253, 253, 0.247);
+  }
+  .leftdark{    
+    background-color: #333333;
+  }
+  .left-topdark{
+    background-color: #575757;
+  }
+
+  .searchboxdark {
+    background-color: #333333;
+    border-bottom: 1px solid #575757;
+  }
+
+  .searchandinputdark {
+    background-color: #575757;
+
+  }
+  .namedark{
+    color:white;
+  }
+  
