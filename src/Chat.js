@@ -58,7 +58,7 @@ function Chat() {
    <div className="left">
    
    <div className="left-top">
-   {/* <img src={profile} alt="dp" /> */}
+
    <div className="lefttopimg">
     
    </div>
