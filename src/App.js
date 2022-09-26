@@ -9,7 +9,7 @@ function App() {
 
   return (<>
   <Chat/>
-  <Auth/>
+  <Auth/> {/*for authentication */}
   </>
  
   );
