@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.dce72252.css",
-    "main.js": "/static/js/main.72814d8f.js",
-    "static/js/787.2b7c45ff.chunk.js": "/static/js/787.2b7c45ff.chunk.js",
-    "static/media/alok.png": "/static/media/alok.e66a154b09189d79b0f0.png",
-    "static/media/sidd.jpg": "/static/media/sidd.406e389e0bdc1e02e721.jpg",
-    "static/media/wallpaper.png": "/static/media/wallpaper.c2fcc1b5e3c72ada03ff.png",
-    "static/media/laptop.png": "/static/media/laptop.d710b8238b7ccaa27061.png",
-    "static/media/wallpaperdark.jpg": "/static/media/wallpaperdark.e12d4362d25fbc82ad18.jpg",
-    "static/media/keepdark3.png": "/static/media/keepdark3.5dae4bddbbe5265d9790.png",
-    "static/media/keep.png": "/static/media/keep.0425b3d30cf0719208c9.png",
-    "index.html": "/index.html",
-    "main.dce72252.css.map": "/static/css/main.dce72252.css.map",
-    "main.72814d8f.js.map": "/static/js/main.72814d8f.js.map",
-    "787.2b7c45ff.chunk.js.map": "/static/js/787.2b7c45ff.chunk.js.map"
+    "main.css": "/whatsappweb/static/css/main.b5cbff66.css",
+    "main.js": "/whatsappweb/static/js/main.9917463b.js",
+    "static/js/787.2b7c45ff.chunk.js": "/whatsappweb/static/js/787.2b7c45ff.chunk.js",
+    "static/media/alok.png": "/whatsappweb/static/media/alok.e66a154b09189d79b0f0.png",
+    "static/media/sidd.jpg": "/whatsappweb/static/media/sidd.406e389e0bdc1e02e721.jpg",
+    "static/media/wallpaper.png": "/whatsappweb/static/media/wallpaper.c2fcc1b5e3c72ada03ff.png",
+    "static/media/laptop.png": "/whatsappweb/static/media/laptop.d710b8238b7ccaa27061.png",
+    "static/media/wallpaperdark.jpg": "/whatsappweb/static/media/wallpaperdark.e12d4362d25fbc82ad18.jpg",
+    "static/media/keepdark3.png": "/whatsappweb/static/media/keepdark3.5dae4bddbbe5265d9790.png",
+    "static/media/keep.png": "/whatsappweb/static/media/keep.0425b3d30cf0719208c9.png",
+    "index.html": "/whatsappweb/index.html",
+    "main.b5cbff66.css.map": "/whatsappweb/static/css/main.b5cbff66.css.map",
+    "main.9917463b.js.map": "/whatsappweb/static/js/main.9917463b.js.map",
+    "787.2b7c45ff.chunk.js.map": "/whatsappweb/static/js/787.2b7c45ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dce72252.css",
-    "static/js/main.72814d8f.js"
+    "static/css/main.b5cbff66.css",
+    "static/js/main.9917463b.js"
   ]
 }
